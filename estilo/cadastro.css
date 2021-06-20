@@ -1,0 +1,21 @@
+html,body,#home{
+    height: 100%;
+    overflow-x:hidden;
+}
+body{
+    background: url(../imagens/imgcadastrar.png);
+    font-family: helvetica,arial,sans-serif;
+}
+.area-logo{
+    padding-top: 20px;
+    text-align: center;
+}
+.texto-cadastro{
+    text-align: center;
+    padding: 5px;
+}
+
+.btn-custon{
+    background-color: rgb(245, 112,17);
+    border-color: rgb(245, 112,17);
+}
